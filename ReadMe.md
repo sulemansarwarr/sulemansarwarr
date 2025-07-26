@@ -1,5 +1,16 @@
 # 💫 About Me:
-I’m a passionate AI student actively building skills in the world of Artificial Intelligence, Machine Learning, and Deep Learning. My learning journey is rooted in solving real-world problems using intelligent systems and automation.<br><br>I have hands-on experience with Python and core ML libraries such as NumPy, Pandas, Scikit-learn, and Matplotlib, along with a growing focus on Deep Learning frameworks like TensorFlow and PyTorch. I’m also exploring the field of Generative AI, including LLMs, NLP, and image generation models.<br><br>My interest in Computer Vision has led me to experiment with OpenCV, image classification, object detection, and real-time video analysis.<br><br>Skills & Tools:<br><br>Machine Learning (Regression, Classification, Model Evaluation)<br>Deep Learning (Neural Networks, CNNs, RNNs, Autoencoders)<br>Generative AI (LLMs, Transformers, Text-to-Image models)<br>Computer Vision (OpenCV, Image Processing, Object Detection)<br>Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch)<br>NLP Basics (Text classification, Tokenization, Embeddings)<br>Data Preprocessing & Visualization<br>Git & GitHub for version control<br><br>I’m constantly learning, building projects, and staying updated with the fast-paced advancements in AI. I aim to contribute to innovative solutions that combine automation, intelligence, and creativity.<br>Learns like a student, builds like a pro.
+I’m a passionate AI student actively building skills in the world of Artificial Intelligence, Machine Learning, and Deep Learning. My learning journey is rooted in solving real-world problems using intelligent systems and automation.<br><br>I have hands-on experience with Python and core ML libraries such as NumPy, Pandas, Scikit-learn, and Matplotlib, along with a growing focus on Deep Learning frameworks like TensorFlow and PyTorch. I’m also exploring the field of Generative AI, including LLMs, NLP, and image generation models.<br><br>My interest in Computer Vision has led me to experiment with OpenCV, image classification, object detection, and real-time video analysis.<br><br>Skills & Tools:<br><br>💡 Machine Learning (Regression, Classification, Model Evaluation)<br>
+🧠 Deep Learning (Neural Networks, CNNs, RNNs, Autoencoders)<br>
+🧪 Generative AI (LLMs, Transformers, Text-to-Image models)<br>
+📷 Computer Vision (OpenCV, Image Processing, Object Detection)<br>
+🐍 Python (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch)<br>
+🗣️ NLP Basics (Text classification, Tokenization, Embeddings)<br>
+📊 Data Preprocessing & Visualization<br>
+🌐 Git & GitHub for version control<br><br>
+
+🚀 I’m constantly learning, building projects, and staying updated with the fast-paced advancements in AI.<br>
+🎯 I aim to contribute to innovative solutions that combine automation, intelligence, and creativity.<br>
+📚 Learns like a student, builds like a pro.
 
 
 ## 🌐 Socials:
