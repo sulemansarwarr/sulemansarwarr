@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Suleman Sarwar:
 I’m a passionate AI student actively building skills in the world of Artificial Intelligence, Machine Learning, and Deep Learning. My learning journey is rooted in solving real-world problems using intelligent systems and automation.<br><br>I have hands-on experience with Python and core ML libraries such as NumPy, Pandas, Scikit-learn, and Matplotlib, along with a growing focus on Deep Learning frameworks like TensorFlow and PyTorch. I’m also exploring the field of Generative AI, including LLMs, NLP, and image generation models.<br><br>My interest in Computer Vision has led me to experiment with OpenCV, image classification, object detection, and real-time video analysis.<br><br>Skills & Tools:<br><br>💡 Machine Learning (Regression, Classification, Model Evaluation)<br>
 🧠 Deep Learning (Neural Networks, CNNs, RNNs, Autoencoders)<br>
 🧪 Generative AI (LLMs, Transformers, Text-to-Image models)<br>
